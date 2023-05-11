@@ -26,7 +26,7 @@ Run this command and watch as the magic unfolds before your eyes:
 > ./target/release/proxy_scraper
 ```
 
-Want to watch every step of the magic trick like a hawk? Use the `-v` or `--verbose` flag:
+Want to watch every step of the magic trick? Use the `-v` or `--verbose` flag:
 
 ```bash
 > ./target/release/proxy_scraper -v
