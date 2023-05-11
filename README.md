@@ -29,11 +29,7 @@ Run this command and watch as the magic unfolds before your eyes:
 Want to watch every step of the magic trick? Use the `-v` or `--verbose` flag:
 
 ```bash
-> ./target/release/proxy_scraper -v
-```
-or
-```bash
-> ./target/release/proxy_scraper --verbose
+> ./target/release/proxy_scraper -v (OR) --verbose
 ```
 
 Need a CSV? Use the `--to-csv` flag followed by the path where you want the file to be saved:
